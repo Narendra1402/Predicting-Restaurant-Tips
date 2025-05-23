@@ -2,10 +2,14 @@
 📌 Project Overview
 This project focuses on predicting restaurant tips based on customer and bill characteristics using Microsoft Excel. Through descriptive analytics, data cleaning, transformation, and multiple linear regression, we explore which variables significantly affect the tip amount and how accurately we can model it.
 
+
+
 💡 Problem Statement
 The goal of this project is to answer the question:
 Can we predict the tip amount a customer will give at a restaurant based on data such as total bill, group size, time of day, and customer attributes?
 We used a dataset that includes customer details like gender, smoking status, day of the week, meal time, group size, total bill, and tip amount.
+
+
 
 ✅ Tasks Performed
 Imported the dataset into Excel (columns: sex, smoker, day, time, size, total_bill, tip)
@@ -25,6 +29,7 @@ Size vs Tip
 Applied Multiple Linear Regression using Excel's Data Analysis Toolpak
 Predicted Tip values using the regression equation
 Calculated Errors and RMSE to measure model performance
+
 
 
 📊 Visual Analysis
